@@ -1,4 +1,4 @@
-# Project Name
+# Screenshot Extension manifest v3
 
 This is a repository for Tab Capture, a Chrome extension that allows you to capture screenshots of web pages and display them within the extension popup.
 
